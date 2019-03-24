@@ -27,9 +27,7 @@ client.user.setGame(poker dz,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
 });
-client.on('ready', () => {
-  console.log(Logged in as ${client.user.tag}!);
-});
+
 
 client.on('ready', () => {
 
