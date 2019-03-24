@@ -4,7 +4,7 @@ const prefix = '.'
 
 client.on('ready', () => {
 
-client.user.setGame(By Poker,"http://twitch.tv/S-F")
+
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
